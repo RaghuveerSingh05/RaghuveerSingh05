@@ -42,6 +42,7 @@ Repository link :- https://github.com/RaghuveerSingh05/Breakout-Pygame
 A fast-paced color matching game built with Unity that tests reflexes and focus.
 Itch.io Link :- https://raghuveer-singh-shekhawat.itch.io/colordash
 
-📫 Connect With Me
-Linkedin :- https://www.linkedin.com/in/raghuveer-singh-shekhawat-ab589332b/
-Itch :- https://raghuveer-singh-shekhawat.itch.io/
+## Connect With Me
+
+- Linkedin :- https://www.linkedin.com/in/raghuveer-singh-shekhawat-ab589332b/
+- Itch :- https://raghuveer-singh-shekhawat.itch.io/
