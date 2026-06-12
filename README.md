@@ -1,18 +1,19 @@
 # Hi, I'm Raghuveer
 
-Aspiring Gameplay Programmer passionate about building engaging player experiences through code.
+Aspiring Software Engineer and Game Developer passionate about building interactive experiences and solving real-world problems through code.
 
-I enjoy creating games, experimenting with mechanics, and solving programming challenges. I primarily work with Unity and Python while continuously expanding my skills in game development and interactive systems.
+I enjoy creating games, exploring new technologies, and developing projects that combine creativity with technical problem-solving. I primarily work with Unity, Python, and modern development tools while continuously expanding my skills across both game and software development.
 
 ---
 
 ## About Me
 
-- Aspiring Game Developer focused on Gameplay Programming
-- Building games using Unity, Godot, Python, and Pygame
-- Interested in Game Mechanics, AI Systems, and Player Experience
+- Aspiring Software Engineer and Game Developer
+- Building games and software using Unity, Godot, Python, and Pygame
+- Interested in Gameplay Programming, AI Systems, and Software Engineering
 - Currently learning Blender and improving my C++ problem-solving skills
-- Contributing to open-source projects and participating in game jams
+- Contributing to open source and participating in game jams
+- Focused on writing clean, maintainable, and practical code
 
 ---
 
@@ -23,24 +24,14 @@ A psychological horror game currently in development, focused on atmosphere, ten
 
 ---
 
-## Tech Stack
-
-- Unity (C#)
-- Godot (GDScript)
-- Python
-- Pygame
-- Git & GitHub
-- Blender (Learning)
-- C++ (Problem Solving)
-
----
 
 ## Goals
 
-- Build polished indie game projects
-- Strengthen gameplay programming expertise
+- Build polished games and impactful software projects
+- Strengthen my problem-solving and software engineering skills
 - Contribute consistently to open source
-- Create a portfolio that reflects both technical and creative growth
+- Improve as a gameplay programmer and developer
+- Create a portfolio that reflects both technical depth and creativity
 
 ---
 
@@ -79,7 +70,7 @@ https://raghuveer-singh-shekhawat.itch.io/keystrike
 ---
 
 ### Into The Dark
-A 2D maze escape game created during a 3-hour game jam, emphasizing quick iteration and creative problem-solving.
+A 2D maze escape game created during a 3-hour game jam.
 
 Play:
 https://raghuveer-singh-shekhawat.itch.io/into-the-dark
