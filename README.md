@@ -6,123 +6,72 @@
 
 Building games, software, and interactive experiences through code.
 
-[LinkedIn](https://www.linkedin.com/in/raghuveer-singh-shekhawat-ab589332b/) •
-[Itch.io](https://raghuveer-singh-shekhawat.itch.io/) •
-[GitHub](https://github.com/RaghuveerSingh05)
+<a href="https://www.linkedin.com/in/raghuveer-singh-shekhawat-ab589332b/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://raghuveer-singh-shekhawat.itch.io/">
+  <img src="https://img.shields.io/badge/Itch.io-Games-fa5c5c?style=for-the-badge&logo=itchdotio" />
+</a>
 
 </div>
 
 ---
 
-## About Me
+## Tech Stack
 
-I enjoy creating projects that combine creativity with problem-solving, whether it's developing gameplay systems, participating in game jams, contributing to open source, or building practical software.
+<div align="center">
 
-- Interested in Gameplay Programming, AI Systems, and Software Engineering
-- Building with Unity, Python, Godot, and modern development tools
-- Learning Blender and strengthening my C++ problem-solving skills
-- Focused on writing clean, maintainable, and practical code
-- Always looking for opportunities to learn and improve
+<img src="https://skillicons.dev/icons?i=unity,godot,python,cpp,git,github,blender,vscode" />
+
+</div>
 
 ---
 
 ## Currently Working On
 
 ### LastLogin
-A psychological horror game currently in development, focused on atmosphere, tension, and immersive storytelling.
+Psychological horror game focused on atmosphere, tension, and immersive storytelling.
 
 ---
 
-## Tech Stack
+## GitHub Stats
 
-<table>
-<tr>
-<td><strong>Game Development</strong></td>
-<td>Unity (C#), Godot (GDScript), Pygame</td>
-</tr>
+<div align="center">
 
-<tr>
-<td><strong>Programming</strong></td>
-<td>Python, C++</td>
-</tr>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=RaghuveerSingh05&show_icons=true&hide_border=true" />
 
-<tr>
-<td><strong>Tools</strong></td>
-<td>Git, GitHub</td>
-</tr>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaghuveerSingh05&layout=compact&hide_border=true" />
 
-<tr>
-<td><strong>Learning</strong></td>
-<td>Blender</td>
-</tr>
-</table>
+</div>
 
 ---
 
 ## Featured Projects
 
-### Snake Game
-Classic Snake recreated using Python and Pygame.
-
-Repository:
-https://github.com/RaghuveerSingh05/snake-game-py
-
----
-
-### Breakout Clone
-Arcade brick-breaker featuring collision mechanics and score systems.
-
-Repository:
-https://github.com/RaghuveerSingh05/Breakout-Pygame
+| Project | Description |
+|----------|-------------|
+| ColorDash | Fast-paced Unity color matching game |
+| KeyStrike | Typing-based shooting game |
+| Into The Dark | 3-hour game jam maze escape |
+| Snake Game | Python + Pygame recreation |
+| Breakout Clone | Arcade brick breaker |
+| PacMan Clone | Classic Pac-Man remake |
 
 ---
 
-### ColorDash
-A fast-paced Unity game that tests reflexes and focus through color-matching gameplay.
+## Contribution Graph
 
-Play:
-https://raghuveer-singh-shekhawat.itch.io/colordash
+<div align="center">
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaghuveerSingh05&hide_border=true" />
 
-### KeyStrike
-A typing-based shooting game where players eliminate enemies by typing accurately under pressure.
-
-Play:
-https://raghuveer-singh-shekhawat.itch.io/keystrike
-
----
-
-### Into The Dark
-A 2D maze escape game built during a 3-hour game jam.
-
-Play:
-https://raghuveer-singh-shekhawat.itch.io/into-the-dark
-
----
-
-### PacMan Clone
-A recreation of the classic Pac-Man built using Python and Pygame.
-
-Repository:
-https://github.com/RaghuveerSingh05/PacMan-pygame
-
----
-
-## Goals
-
-- Build polished games and impactful software projects
-- Improve my software engineering and gameplay programming skills
-- Contribute consistently to open source
-- Grow through game jams and collaborative projects
-- Create a portfolio that reflects both creativity and technical depth
+</div>
 
 ---
 
 <div align="center">
 
-### Thanks for visiting my profile.
-
-Feel free to explore my projects or connect with me.
+Thanks for visiting my profile.
 
 </div>
