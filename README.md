@@ -26,7 +26,7 @@
 - Improve gameplay programming skills
 
 
-##### Featured Projects
+# Featured Projects
 
 ## Snake Game
 
