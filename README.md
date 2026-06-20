@@ -27,6 +27,7 @@ I enjoy creating projects that combine creativity with problem-solving, whether 
 - Interested in Gameplay Programming, AI Systems, and Software Engineering
 - Learning through projects, game jams, and open source contributions
 - Focused on writing clean and maintainable code
+- Learning Data Structures and Algorithms using C++ Language
 
 ---
 
